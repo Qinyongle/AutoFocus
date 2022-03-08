@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>style/volumSlider.qss</file>
+    </qresource>
+</RCC>

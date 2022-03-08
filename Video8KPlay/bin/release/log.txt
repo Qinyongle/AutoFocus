@@ -1,0 +1,5 @@
+DateTime:210930 16:49:56.267 Debug: File:  Line:0 Function: >> 1
+DateTime:210930 16:49:56.306 Debug: File:  Line:0 Function: >> QRect(0,0 1920x1080) QRect(0,0 0x0)
+DateTime:210930 16:49:57.110 Debug: File:  Line:0 Function: >> m_path: "H:/video/" "8k" 5000
+DateTime:210930 16:49:59.117 Debug: File:  Line:0 Function: >> ~AudioPlay()
+DateTime:210930 16:49:59.119 Debug: File:  Line:0 Function: >> MainWindow::~MainWindow
